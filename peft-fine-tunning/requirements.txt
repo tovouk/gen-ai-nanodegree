@@ -1,0 +1,4 @@
+transformers==4.26.0
+datasets==2.6.1
+numpy==1.21.2
+peft==0.1.0
